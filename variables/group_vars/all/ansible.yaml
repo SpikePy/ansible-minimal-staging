@@ -1,0 +1,4 @@
+ansible_python_interpreter: /usr/local/bin/python3 # prevents annoying purple ansible warning
+
+# does not seem to work
+# stdout_callback: yaml # let ansible output yaml instead of json
